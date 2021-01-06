@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning Japanese
 - 💬 Ask me about anything
-- 📫 How to reach me: truonghungltm@gmail.com
+- 📫 How to reach me: truonghungvatvo@gmail.com

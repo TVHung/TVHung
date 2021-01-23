@@ -5,3 +5,5 @@
 - 📫 How to reach me: truonghungvatvo@gmail.com
 
 [![TVHung](tenor1.gif)](https://www.facebook.com/hung.tv99/)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TVHung&show_icons=true&locale=en" alt="ging-dev" /></p>

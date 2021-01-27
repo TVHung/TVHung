@@ -7,8 +7,8 @@
 - 📫 How to reach me: truonghungvatvo@gmail.com
 
 
-<p><img align="left" style="max-width: 45%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVHung&layout=compact&hide=html" alt="TVHung" /></p>  
-<p><img align="center" style="max-width: 45%" width="45%" src="https://github-readme-stats.vercel.app/api?username=TVHung&show_icons=true" alt="TVHung" /></p>
+<p><img align="left" style="max-width: 45%" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVHung&layout=compact&hide=html" alt="TVHung" /></p>  
+<p><img align="center" style="max-width: 45%" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=TVHung&show_icons=true" alt="TVHung" /></p>
 
 
 [![TVHung](tenor1.gif)](https://www.facebook.com/hung.tv99/)
